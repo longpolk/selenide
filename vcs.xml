@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/longpolk/google-test-latest" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.id.vin" />
+          <option name="userName" value="v.longntt1@vinid.net" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Working\Selenide" />
